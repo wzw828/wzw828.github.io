@@ -1,29 +1,36 @@
 ---
 layout: page
-title:  关于Pixyll 中文版
+title:  关于我
 permalink: /about/
 no_duoshuo: true
 ---
 
-##中文版说明##
-这是pixyll的汉化版，主要改动如下:
+04年毕业于河北工业大学，艺术设计本科
+10年互联网设计工作经验，见证了互联网的萌芽到疯狂成长。
+从PS入门，到写第一个html页面、
+从认为设计就是做的炫酷，到理解什么是用户体验、
+从只关注设计，到思考一个产品为用户带来什么价值
 
-1. 语言汉化
-2. 加入**多说**评论功能
-3. 加入**百度统计**(可用google统计和百度统计)
-4. fonts.googleapis.com更改为360字体cdn，大幅增加国内访问速度
+05-07    jeboo.com
+07-09    mop.com
+09-11    baidu.com
+11-13    zhimei.com
+13-      dajie.com
 
-关于如何使用，请参考：[中文版使用说明](http://pixyll.maxee.info)
+### 10年……
 
-##原版说明##
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+是另一个新起点的开始。
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+<br>
+<br>
+<br>
 
-Thanks to the following:
+##博客说##
+
+这个博客是采用[**Jekyll**](http://jekyllrb.com)，架设在Github上的个人博客。
+主题是基于[**John Otander**](http://johnotander.com)的[**pixyll**](https://github.com/johnotander/pixyll)的[汉化中文版](http://pixyll.maxee.info)而改造。
+
+这些都是开源的，并遵守[**MIT**](http://opensource.org/licenses/MIT)协议，
 
 * [BASSCSS](http://basscss.com)
 * [Jekyll](http://jekyllrb.com)

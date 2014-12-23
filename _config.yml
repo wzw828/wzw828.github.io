@@ -1,8 +1,8 @@
 # Site settings
-title:       读历设计师
+title:       读厉设计师
 email:       wzw828@gmail.com
 author:      wzw828
-description: "测试描述"
+description: "读厉设计师——解读设计师生活、工作与成长。"
 baseurl:     ""
 url:         "http://wangzhiwei.me"
 
@@ -21,9 +21,9 @@ show_related_posts: false
 show_post_footers:  false
 
 # Social icons
-show_social_icons: false
-github_username:
-twitter_username:
+show_social_icons:  true
+github_username:    wzw828
+twitter_username:   wzw828
 google_plus_id:
 linkedin_username:
 bitcoin_url:
