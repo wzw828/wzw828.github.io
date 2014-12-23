@@ -113,13 +113,7 @@ body {
   margin-top: 0;
   font-weight: 600;
   color: #333;
-  padding-bottom:6px;
 }
-
-.post-link:hover{
-  border-bottom: 3px solid #12BD67;
-}
-
 
 .post-footer {
   @extend .italic;
@@ -148,7 +142,6 @@ body {
   transition: all 0.2s ease-in-out;
   background: #fafafa;
   border-radius: 0.1875em;
-  border: 1px solid #f3f3f3;
   color: #333333;
   padding: 1em 1.5em;
 }
