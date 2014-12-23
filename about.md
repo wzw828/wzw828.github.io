@@ -5,23 +5,22 @@ permalink: /about/
 no_duoshuo: true
 ---
 
-04年毕业于河北工业大学，艺术设计本科
-10年互联网设计工作经验，见证了互联网的萌芽到疯狂成长。
-从PS入门，到写第一个html页面、
-从认为设计就是做的炫酷，到理解什么是用户体验、
-从只关注设计，到思考一个产品为用户带来什么价值
+04年毕业于河北工业大学，艺术设计本科<br>
+10年互联网设计工作经验，见证了互联网的萌芽到疯狂成长。<br>
+从PS入门，到写第一个html页面<br>
+从认为设计就是做的炫酷，到理解什么是用户体验<br>
+从只关注设计，到思考一个产品为用户带来什么价值<br>
 
-05-07    jeboo.com
-07-09    mop.com
-09-11    baidu.com
-11-13    zhimei.com
-13-      dajie.com
+### 10年,另一个新起点的开始。
 
-### 10年……
+05-07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**jeboo.com**<br>
+07-09&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**mop.com**<br>
+09-11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**baidu.com**<br>
+11-13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**zhimei.com**<br>
+13-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**dajie.com**<br>
 
-是另一个新起点的开始。
+QQ:9292350
 
-<br>
 <br>
 <br>
 
