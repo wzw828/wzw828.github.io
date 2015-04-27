@@ -1,4 +1,4 @@
----
+—
 layout: page
 title:  关于我
 permalink: /about/
@@ -18,12 +18,6 @@ no\_duoshuo: true
 *09-11*&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;**baidu.com**<br>
 *07-09*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**mop.com**<br>
 *05-07*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**jeboo.com**<br>
-
-
-
-
-
-
 
 QQ:9292350
 
