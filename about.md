@@ -2,7 +2,7 @@
 layout: page
 title:  关于我
 permalink: /about/
-no\_duoshuo: true
+no_duoshuo: true
 ---
 
 04年毕业于河北工业大学，艺术设计本科<br>
