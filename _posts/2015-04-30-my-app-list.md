@@ -14,6 +14,7 @@ group:       archive
 ## Mac APP
 
 ### 【设计师必备】
+
 #### - 图形图像处理
 
 * **Adobe**系列（PS，AI）
@@ -32,6 +33,7 @@ group:       archive
 ## iOS
 
 ## 插件
+
 ##### - Sketch
 
 * **[Sketch Style Inventory][1]** - 基于视觉稿生成 “Style Guide”
