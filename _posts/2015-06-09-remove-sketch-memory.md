@@ -18,6 +18,7 @@ group:       archive
 3. 输入sudo du -sh .DocumentRevisions-V100然后回车
 4. 输入你mac的登录密码回车查看这个缓存文件多大
 5. 看好了，在确保没有sketch文件打开的情况下输入删除命令:
+
 > sudo rm -rf .DocumentRevisions-V100 然后回车
 
 搞定！
