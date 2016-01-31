@@ -9,8 +9,6 @@ tags:        tools,develop
 group:       archive
 ---
 
-##Sublime Text 常用插件整理
-
 * SideBarEnhancements - SideBar增强
 * Indent and braces - 缩进(选择某代码块，将其纳入括号内并进行缩进) [github地址](https://github.com/Epskampie/sublime_indent_and_braces)
 * JavaScript Ultimate - JS相关的
