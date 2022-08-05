@@ -1,11 +1,11 @@
 ---
-layout:      post
 title:       常用软件整理分享
 summary:     从PC换到Mac后，整个人的生活轻松起来了，整理一下这些年工作和生活中常用的软件列表，作为一个日常记录，也分享下
-date:        2015-04-29 14:41:00
+date:        2015-04-29 14:41
 keywords:    design,经验总结
 categories:  design
 tags:        design
+layout:      post
 group:       archive
 ---
 

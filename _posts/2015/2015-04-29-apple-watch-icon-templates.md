@@ -1,11 +1,11 @@
 ---
-layout:      post
 title:       Apple Watch Icon Templates
 summary:     Apple Watch icon设计模板文件
-date:        2015-04-29 14:41:00
+date:        2015-04-29 14:41
 keywords:    icon
 categories:  design
 tags:        design
+layout:      post
 group:       archive
 ---
 

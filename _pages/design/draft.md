@@ -1,8 +1,8 @@
 ---
-title: 设计灵感
-author: 美分享
+title: 灵感
+author: wzw828
 date: 2022-08-02
-category: Jekyll
+category: draft
 layout: post
 ---
 

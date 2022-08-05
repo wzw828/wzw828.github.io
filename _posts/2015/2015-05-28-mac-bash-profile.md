@@ -1,11 +1,11 @@
 ---
-layout:      post
 title:       Mac更新.bash_profile文件
 summary:     
-date:        2015-05-28 13:35:00
+date:        2015-05-28 13:35
 keywords:    mac,bash
 categories:  software
 tags:        software
+layout:      post
 group:       archive
 ---
 

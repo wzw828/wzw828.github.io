@@ -1,11 +1,11 @@
 ---
-layout:      post
 title:       sketch自动存储占用大容量解决办法
 summary:     前几天发现硬盘空间越来越小，之前在知乎上阅读过一篇介绍关于sketch3.x版本自动备份，导致占用大量存储的问题…
-date:        2015-6-09 14:41:00
+date:        2015-6-09 14:41
 keywords:    sketch,经验总结
 categories:  tools
 tags:        tools
+layout:      post
 group:       archive
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: 关于
-author: 美分享
+author: wzw828
 date: 2022-08-02
-category: Jekyll
+category: about
 layout: post
 ---
 
-这是关于我的页面
+### 关于
+
+记录一些学习过程的知识点。

@@ -1,11 +1,11 @@
 ---
-layout:      post
 title:       Sublime Text 常用插件整理
 summary:     编程开发学习之——Sublime Text
 date:        2016-01-31 13:27:00
 keywords:    sublimetext,mac,develop
 categories:  tools,develop
 tags:        tools,develop
+layout:      post
 group:       archive
 ---
 

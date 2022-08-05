@@ -1,11 +1,11 @@
 ---
-layout:      post
 title:       转-使用 Sketch 生成 Webfont
 summary:     Tsutomu Kawamura 发布了一个从 Sketch 文件自动生成 Webfont 的工具，这使得我们可以直接从 Sketch 文件中输出 font
-date:        2015-02-13 11:02:00
+date:        2015-02-13 11:02
 keywords:    sketch, webfont
 categories:  design
 tags:        design
+layout:      post
 group:          archive
 ---
 早先使用 Sketch 绘制一些 icon，导出成为 SVG 之后需要前往 [Fontello][1] 等网站生成 font 来使用，偶尔还会出现在不同的网站生成效果也不一样，很是麻烦。最近 Sketch 团队发布了命令行工具 [Sketch Tool][2]，可以使用命令行导出 Artboard，本周 Tsutomu Kawamura 发布了一个从 Sketch 文件自动生成 Webfont 的小工具：[Symbols for Sketch][3]（其中用到 [gulp-iconfont][4]、[gulp-sketch][5]），这个小东西使得我们可以直接从 Sketch 文件中输出 font，本文主要写一下这个东西如何使用。
