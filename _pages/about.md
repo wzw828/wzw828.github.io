@@ -6,6 +6,5 @@ category: about
 layout: post
 ---
 
-### 关于
 
 记录一些学习过程的知识点。
